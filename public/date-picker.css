@@ -1,0 +1,97 @@
+.article-date-picker {
+    position: relative;
+}
+
+.article-date-picker summary {
+    cursor: pointer;
+    list-style: none;
+}
+
+.article-date-picker summary::-webkit-details-marker {
+    display: none;
+}
+
+.article-date-picker summary::after {
+    content: "▾";
+    float: right;
+}
+
+.article-date-panel {
+    position: absolute;
+    z-index: 3;
+    left: 0;
+    display: grid;
+    grid-template-columns: minmax(5.5rem, 0.85fr) minmax(0, 2.15fr);
+    width: min(24rem, calc(100vw - 1.75rem));
+    margin-top: 0.25rem;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.65rem;
+    box-shadow: 0 0.5rem 1.25rem rgb(15 23 42 / 14%);
+    overflow: hidden;
+}
+
+.article-date-presets {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    padding: 0.5rem;
+    border-right: 1px solid #e9ecef;
+}
+
+.article-date-panel button {
+    border: 0;
+    border-radius: 0.3rem;
+    background: transparent;
+    color: #0f172a;
+    font-size: 0.8rem;
+    min-height: 1.9rem;
+}
+
+.article-date-presets button {
+    text-align: left;
+}
+
+.article-date-panel button:hover,
+.article-date-panel button[aria-pressed="true"],
+.article-date-panel button[data-in-range] {
+    background: #edf0f4;
+}
+
+.article-date-panel .article-date-apply {
+    margin-top: auto;
+    background: #0f172a;
+    color: #fff;
+    text-align: center;
+}
+
+.article-date-panel .article-date-apply:hover,
+.article-date-panel button[data-endpoint] {
+    background: #334155;
+    color: #fff;
+}
+
+.article-date-calendar {
+    padding: 0.5rem;
+}
+
+.article-date-heading {
+    display: grid;
+    grid-template-columns: 2rem 1fr 2rem;
+    align-items: center;
+    text-align: center;
+    font-size: 0.85rem;
+    margin-bottom: 0.35rem;
+}
+
+.article-date-grid {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    text-align: center;
+    font-size: 0.72rem;
+    color: #495057;
+}
+
+.article-date-grid button {
+    padding: 0;
+}

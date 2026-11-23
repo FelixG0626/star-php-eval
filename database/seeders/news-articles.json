@@ -1,0 +1,132 @@
+{
+    "Local News": [
+        {
+            "title": "Selangor and Perak report fewer flood evacuees",
+            "summary": "The number of people staying in temporary relief centres fell in both states by Monday afternoon.",
+            "body": "Bernama reported that relief centres in Selangor and Perak were housing fewer evacuees as of 4pm on November 23. The figures show that the number of people needing temporary accommodation had eased by that afternoon.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "Negeri Sembilan offers hostel places to SPM candidates at risk during monsoon",
+            "summary": "Education officials identified 274 exam candidates who could be affected by flooding, access problems or landslides.",
+            "body": "The state education department is offering places in school hostels to help affected students sit their SPM exams. Officials identified 184 candidates who could face difficulty getting to school and another 78 living in flood-prone homes. The remaining 12 face landslide risk, Bernama reported.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "Malaysia recruits 3,150 teachers ahead of younger Year One intake",
+            "summary": "The contract appointments support the 2027 intake of six-year-old pupils.",
+            "body": "The Education Ministry has hired 3,150 contract teachers as it prepares for six-year-olds to enter Year One in 2027, The Star reported. The ministry indicated that further contract appointments could be offered in future recruitment rounds.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "Malaysia sets November 29 test for MySiren emergency alerts",
+            "summary": "The nationwide test is scheduled for 10:10am, according to the communications minister.",
+            "body": "Malaysia plans to test the MySiren emergency warning system nationwide on November 29. Communications Minister Fahmi Fadzil told The Star's reporting team that the system does not access personal data on users' devices.",
+            "published_at": "2026-11-23"
+        }
+    ],
+    "Business": [
+        {
+            "title": "German business activity picks up in November survey",
+            "summary": "A preliminary gauge of private-sector activity rose as both manufacturing and services improved.",
+            "body": "Germany's flash composite purchasing managers' index climbed to 55.0 from 53.4 in October, Reuters reported. Manufacturing led the gain and service-sector activity also picked up, although total employment fell slightly in the preliminary survey.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "UK private-sector growth eases in November",
+            "summary": "The latest survey pointed to softer demand in parts of the economy as investment in AI capacity offered some support.",
+            "body": "British private-sector activity continued to expand in November at a slightly slower rate, according to a preliminary survey reported by Reuters. Softer overseas demand for services and weakness in the property market weighed on activity, while work to expand AI capacity helped offset some of the slowdown.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "US stocks fall sharply as technology sell-off spreads",
+            "summary": "The S&P 500 dropped 3.7%, and the Nasdaq Composite moved into negative territory for the year.",
+            "body": "Chipmakers were among the hardest hit as the sell-off spread to businesses tied to data centres and AI infrastructure, the Associated Press reported. The decline extended beyond semiconductors to some optical equipment and power providers.",
+            "published_at": "2026-11-20"
+        },
+        {
+            "title": "Australia’s private sector contracts more sharply in November survey",
+            "summary": "A preliminary activity index fell further below the level that separates expansion from contraction.",
+            "body": "Australia's flash composite purchasing managers' index fell from 48.2 in October to 46.1 in November, according to figures reported by Saxo. A reading below 50 indicates contraction, and the preliminary figure pointed to the steepest decline since August 2021.",
+            "published_at": "2026-11-23"
+        }
+    ],
+    "Sports": [
+        {
+            "title": "Carlos Alcaraz wins his first ATP Finals title in Turin",
+            "summary": "The Spaniard beat Alexander Zverev in straight sets at the season-ending tournament.",
+            "body": "Carlos Alcaraz took the opening set 6–2 before edging Alexander Zverev in a second-set tiebreak. The result gave Alcaraz his first title at the ATP Finals, where the men's season concludes with a field drawn from the year's leading players.",
+            "published_at": "2026-11-22"
+        },
+        {
+            "title": "New Zealand hold off India to draw the first Test in Wellington",
+            "summary": "New Zealand batted through the final day at the Basin Reserve to leave the series level.",
+            "body": "New Zealand finished their second innings on 239 for five to secure a draw in the opening Test against India. Daryl Mitchell and Glenn Phillips helped the hosts withstand India's attack on the final day. The second and final Test is due to begin in Christchurch on November 27.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "49ers beat Vikings 35–10 in Mexico City",
+            "summary": "San Francisco won the Week 11 matchup at Estadio Banorte.",
+            "body": "The San Francisco 49ers beat the Minnesota Vikings 35–10 at Estadio Banorte in Mexico City. San Francisco scored three touchdowns in the second quarter to build a 28–7 halftime lead, then added one more in the fourth quarter.",
+            "published_at": "2026-11-22"
+        },
+        {
+            "title": "France and South Africa set for Nations Championship final",
+            "summary": "England and New Zealand will play for bronze during the same finals weekend in London.",
+            "body": "France and South Africa are due to meet on November 29 at Allianz Stadium. New Zealand finished level with South Africa on 22 points in the Southern Hemisphere standings but missed the final on points difference. The All Blacks will face England on November 28.",
+            "published_at": "2026-11-23"
+        }
+    ],
+    "Technology": [
+        {
+            "title": "CrowdStrike announces $44 billion deal for Zscaler",
+            "summary": "The proposed acquisition would bring two major cybersecurity providers under one company.",
+            "body": "CrowdStrike announced a deal to buy Zscaler for about $44 billion, the Associated Press reported. The proposed combination would bring together CrowdStrike's security tools for devices and workloads with Zscaler's services for controlling access to corporate applications.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "US chip controls reach remote access through overseas data centres",
+            "summary": "New restrictions could affect how Chinese technology firms access advanced computing capacity.",
+            "body": "The United States tightened restrictions on remote access to advanced chips in data centres outside China, the Associated Press reported. The rules expand controls beyond direct hardware sales and could affect Chinese companies that rely on rented computing capacity for AI development.",
+            "published_at": "2026-11-19"
+        },
+        {
+            "title": "Australia puts AI on its foreign policy agenda",
+            "summary": "Foreign Minister Penny Wong warned that AI is changing how foreign actors can influence democratic debate.",
+            "body": "Australia plans to treat artificial intelligence as a major foreign policy issue, Reuters reported. Foreign Minister Penny Wong highlighted risks such as the use of AI to spread disinformation and described the technology as a force reshaping economies and national security.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "Common Space picks Satellogic for humanitarian imaging satellite",
+            "summary": "The nonprofit says its first satellite is targeted for launch in July 2027.",
+            "body": "Common Space selected Satellogic to build and operate a NewSat Mark V spacecraft for a humanitarian Earth observation project. The nonprofit plans to use the mission to give participating communities a role in deciding what high-resolution imagery is collected.",
+            "published_at": "2026-11-19"
+        }
+    ],
+    "Lifestyle": [
+        {
+            "title": "Malaysian actor Nandagopall Mohan wins at Taiwan’s Golden Horse Awards",
+            "summary": "Mohan was named best new performer for his role in the Malaysian-Taiwanese film Sayang Sayang.",
+            "body": "Nandagopall Mohan won the newcomer prize at the 63rd Golden Horse Awards in Taipei. In Sayang Sayang, he plays Ajay, a deaf teenager who loves to dance. Malay Mail reported the win the morning after the ceremony.",
+            "published_at": "2026-11-23"
+        },
+        {
+            "title": "New Hunger Games film opens to an estimated $120 million",
+            "summary": "Sunrise on the Reaping led the North American box office on its opening weekend.",
+            "body": "Studio estimates put the new Hunger Games film's North American opening weekend at $120 million, the Associated Press reported. The film returns to Panem before the events of the original series and gives the franchise one of its biggest openings in years.",
+            "published_at": "2026-11-22"
+        },
+        {
+            "title": "AAA forecasts 81.5 million US Thanksgiving travellers",
+            "summary": "The forecast is slightly below last year’s total for trips of at least 50 miles.",
+            "body": "AAA expects about 81.5 million Americans to travel at least 50 miles from home between November 24 and 30. That is slightly below the 81.6 million recorded last year. The forecast measures trips by road, air and other modes during the holiday period.",
+            "published_at": "2026-11-16"
+        },
+        {
+            "title": "David Sims photography exhibition opens in A Coruña",
+            "summary": "Spain’s MOP Foundation is presenting an exhibition that explores the British photographer’s work.",
+            "body": "The MOP Foundation in A Coruña is showing work by David Sims in an exhibition titled The Hamster Becomes the Problem. Wallpaper reported on the show on November 20, tracing the exhibition's focus on the photographer's visual approach and his work in fashion imagery.",
+            "published_at": "2026-11-20"
+        }
+    ]
+}
